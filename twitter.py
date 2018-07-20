@@ -30,8 +30,8 @@ db = firestore.client()
 
 # doc_ref = db.collection(u'users').document(u'alovelace')
 # doc_ref.set({
-#     u'first': u'Lucila',
-#     u'last': u'Yañez',
+#     u'first': u'Name',
+#     u'last': u'Last name',
 #     u'born': 1993,
 #      u'dateExample': fff
 # })
